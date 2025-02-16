@@ -89,7 +89,7 @@ npm start
 *(Include UI screenshots showcasing the homepage, doctor listing, booking page, dashboard, and payment page.)*
 
 ## 🔗 Live Demo
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://doc-care-user.vercel.app/)
 
 ## 📌 Future Enhancements
 - **Teleconsultation:** Video calling feature for virtual consultations.
